@@ -1,0 +1,4 @@
+# babyshow
+<?php
+  phpinfo();
+?>
